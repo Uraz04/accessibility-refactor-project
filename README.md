@@ -1,5 +1,5 @@
 # accessibility-refactor-project
-Refactoring an existing HTML webpage with accessibility as the focal area of improvement. This project includes refactoring the code for titles, semantic html elements, accessible alt attributes as well as keeping the order logical and clear. 
+The current HTML webpage requires improvements notably around accessibility as it lacks in that domain. Ensuring webpages meet certain accessibility guidelines allows audiences with disabilities/ requirements to navigate the webpages with ease. In order to achieve this, this project requires refactoring an existing HTML webpage with accessibility as the focal area of improvement. This project also includes refactoring the code for titles, semantic html elements, accessible alt attributes as well as keeping the order logical and clear. 
 
 ## User Story
 
