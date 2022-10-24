@@ -28,3 +28,19 @@ THEN heading attributes fall in a sequential order in the html source code
 GIVEN I have access to edit a website
 WHEN I edit the source code of the website, in light of accessibility
 THEN Title elements contain a concise, descriptive title
+
+## Challenges
+The short project presented challenges relating to the css styling of various html elements that had to be grouped together in the same alignment. As well as accessibility improvements to the webpage namely by including the alternative text tags and aria labels for a few of the elements. 
+
+## Things I learnt
+I learnt how to use the external css file to add styling to my html page alongside improving the display of the elements such as header and images. I improved my understanding on the accessibility requirements in html by using certain labels such as aria-label, alternative text and titles. 
+
+# Screenshot of Live app
+![uraz04 github io_accessibility-refactor-project_my-accessible-webpage](https://user-images.githubusercontent.com/69035726/197650283-e2b03840-94b6-440c-a682-f31d00c16be1.png)
+
+## Contact
+If you have any questions, please contact me at: 
+ 
+  Github Profile: [Uraz04](https://github.com/Uraz04/accessibility-refactor-project)  
+
+  Email: somemail.com
